@@ -18,7 +18,7 @@ the monolithic code base both in frontend and backend.
 
 Click to watch on YouTube:
 
-[![Demo Picture](https://raw.githubusercontent.com/bogem/palp/master/Demo.png)](https://www.youtube.com/watch?v=Tx-oveBODkY)
+[![Demo Picture](https://raw.githubusercontent.com/bogem/palp/master/Demo.png)](https://youtu.be/5g_6eyKyP2o)
 
 ## Motivation
 I worked for my university and we were looking for such platforms, but didn't
