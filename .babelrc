@@ -1,0 +1,9 @@
+{
+  "presets": [
+    ["@babel/preset-env", {
+      "targets": {
+        "browsers": ["> 4%"]
+      }
+    }],
+    "@babel/preset-stage-2", "@babel/preset-react", "@babel/preset-flow"]
+}

@@ -1,0 +1,13 @@
+.error-message {
+  color: #f00;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.navbar {
+  background-color: #00467d;
+}
+
+.navbar .container {
+  padding: 0;
+}

@@ -1,0 +1,3 @@
+databaseDSN = 'root:root@tcp(localhost:8889)/ppsc'
+hostAddress = ":8080"
+

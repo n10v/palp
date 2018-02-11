@@ -1,0 +1,50 @@
+.html {
+  height: 100%;
+  width: 100%;
+}
+
+.body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #182026;
+  font-size: 14px;
+  line-height: 1.2;
+  height: 100%;
+  width: 100%;
+}
+
+.main {
+  box-sizing: border-box;
+  padding: 9px;
+  width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 0 15px;
+  position: relative;
+  width: 100%;
+}
+
+/* From https://github.com/h5bp/html5-boilerplate:
+ *
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+.clearfix:after {
+  clear: both;
+}

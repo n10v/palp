@@ -1,0 +1,7 @@
+.problem-form,
+.problem-form__classrooms-label,
+.problem-form__control-buttons ,
+.problem-form__visible-for-classrooms-label {
+  display: block;
+  margin: 16px 0 0;
+}

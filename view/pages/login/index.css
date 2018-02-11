@@ -1,0 +1,22 @@
+.login-page {
+  height: 300px;
+	left: 50%;
+  margin: -150px 0 0 -180px;
+	position: absolute;
+	top: 50%;
+  width: 360px;
+}
+
+.login-page__h1 {
+  margin: 24px auto;
+  text-align: center;
+}
+
+.login-form {
+  margin: 0 auto;
+  max-width: 360px;
+  padding: 0 45px;
+  position: relative;
+  text-align: center;
+}
+

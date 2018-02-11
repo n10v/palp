@@ -1,0 +1,14 @@
+.link {
+  background-color: transparent;
+  color: #007bff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.link:active {
+  color: #444;
+}

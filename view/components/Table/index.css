@@ -1,0 +1,7 @@
+.table {
+  border: 1px solid rgba(16, 22, 26, 0.3);
+}
+
+.table th {
+  text-align: center;
+}

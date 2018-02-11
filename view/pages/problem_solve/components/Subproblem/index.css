@@ -1,0 +1,13 @@
+.subproblem__description table {
+  border-collapse: collapse;
+}
+
+.subproblem__description table th {
+  background-color: #ddd;
+}
+
+.subproblem__description table th,
+.subproblem__description table td {
+  border: 1px solid black;
+  padding: 5px;
+}
