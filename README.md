@@ -10,7 +10,7 @@ security good practices, ...). I unterstand this.
 It's my first experience to make such big project alone in short deadlines
 and combining with my study in university and other open-source projects. But
 it's my first web project and I should have something. Something is better than nothing.
-But here you can find some architecture ideas that allow to painlessly scale
+Here you can find some architecture ideas that allow to painlessly scale
 the monolithic code base both in frontend and backend.
 
 ## Demo
