@@ -1,8 +1,10 @@
 # PALP
 
+**ONLY FOR DEMONSTRATION PURPOSES, NOT FOR PRODUCTION**
+
 **PALP** (**P**rogrammierungs**a**ufgaben **L**oesungs**p**ruefer) is a simple automated code
 assessment platform. You just need to create the tests of problem and the solution
-will be tested in Docker container.
+will be tested in Docker container. 
 
 **Important to notice** that this project lacks a lot of functionality (admin panel,
 viewing results, support of other programming languages, ...)
